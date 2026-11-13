@@ -1,0 +1,8 @@
+Butir,r_hitung,p_value,Corrected r,Alpha jika dihapus,Keterangan,Keputusan
+AI1,0.6617,0.0,0.4237,0.5633,Valid,Pertahankan
+AI2,0.5143,0.0008,0.3466,0.5952,Valid,Pertahankan
+AI3,0.6783,0.0,0.5172,0.54,Valid,Pertahankan
+AI4,0.2375,0.1454,-0.0299,0.7055,Tidak valid,"Buang/revisi, uji ulang"
+AI5,0.5389,0.0004,0.3106,0.603,Valid,Pertahankan
+AI6,0.4934,0.0014,0.2952,0.6067,Valid,Pertahankan
+AI7,0.7759,0.0,0.6178,0.4884,Valid,Pertahankan

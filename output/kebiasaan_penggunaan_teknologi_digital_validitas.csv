@@ -1,0 +1,7 @@
+Butir,r_hitung,p_value,Corrected r,Alpha jika dihapus,Keterangan,Keputusan
+TD1,0.4277,0.0066,0.0362,0.3522,Valid,Tinjau isi butir
+TD2,0.6201,0.0,0.3706,0.1123,Valid,Pertahankan
+TD3,0.5566,0.0002,0.2556,0.1834,Valid,Pertahankan
+TD4,0.3993,0.0118,0.0301,0.3504,Valid,Tinjau isi butir
+TD5,0.5877,0.0001,0.2845,0.157,Valid,Pertahankan
+TD6,0.2889,0.0745,-0.0612,0.4038,Tidak valid,"Buang/revisi, uji ulang"
